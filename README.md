@@ -1,62 +1,88 @@
 <h1 align="center">Muhammad Jahanzaib</h1>
-<h3 align="center">🚀 Frontend Architect | React, Next.js & React Native Specialist</h3>
 
 <p align="center">
-Building scalable, high-performance, and visually stunning web & mobile applications.
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Architect;React+%7C+Next.js+%7C+React+Native;Building+Scalable+High-Performance+Apps;UI%2FUX+%2B+Performance+Focused+Developer" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=JahanzaibJameel">
+    <img src="https://komarev.com/ghpvc/?username=JahanzaibJameel&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Frontend Developer with **architecture-level mindset**
-- ⚡ Specialized in **React ecosystem (Web + Mobile)**
-- 🎯 Focused on **performance, scalability & clean UI/UX**
-- 📱 Currently building **React Native apps**
-- 🚀 Passionate about **animations, 3D, and next-gen web tech**
+- 💻 Frontend Architect specializing in **React Ecosystem**
+- ⚡ Building **scalable, performant & production-grade apps**
+- 🎯 Strong focus on **UI/UX, animations & system design**
+- 📱 Currently focused on **React Native (CLI + Expo)**
+- 🚀 Exploring **AI + Web + 3D integration**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Expertise
+
+✔ Frontend Architecture  
+✔ Performance Optimization  
+✔ Scalable Component Systems  
+✔ Advanced Animations & Interactions  
+✔ API Integration & State Management  
+
+---
+
+## 🛠️ Tech Stack (Curated, Not Overloaded)
 
 ### 🚀 Core
-React • Next.js • React Native • TypeScript • JavaScript (ES6+)
-
-### 🎨 UI / Styling
-Tailwind CSS • Bootstrap • CSS Modules • Shadcn/UI • Material UI • Responsive Design
+React • Next.js • React Native • TypeScript • JavaScript
 
 ### ⚡ State & Data
-Redux Toolkit • Zustand • Recoil • Jotai • TanStack Query
+Redux Toolkit • Zustand • TanStack Query • Recoil
+
+### 🎨 UI / Styling
+Tailwind CSS • Shadcn/UI • CSS Modules • Material UI
 
 ### 🎬 Animations & Graphics
-Framer Motion • GSAP • Three.js • React Three Fiber • Particle.js • D3.js • Canvas API • SVG
+Framer Motion • GSAP • Three.js • React Three Fiber
 
-### 🌐 Web & APIs
-REST APIs • Firebase • Auth.js • WebSockets • Google Maps API
-
-### ⚙️ Tools & DevOps
-Git • GitHub • Vercel • Netlify • pnpm • npm • Yarn
+### 🌐 Backend & APIs
+REST APIs • Firebase • Auth.js • WebSockets
 
 ### 🧪 Testing & Quality
-Jest • Cypress • Playwright • Testing Library • ESLint • Prettier
+Jest • Cypress • Playwright • ESLint • Prettier
 
-### 🧩 Advanced
-Web Workers • Service Workers • PWA • Module Federation • Micro Frontends
+### ⚙️ Tools
+Git • GitHub • Vercel • Netlify • pnpm
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Work
+
+🔹 **Portfolio Website**  
+Live: https://voluble-mooncake-68cad9.netlify.app/  
+- High-end UI/UX  
+- Performance optimized  
+- Modern animations  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JahanzaibJameel&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🐍 Contribution Graph (Animated)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JahanzaibJameel&theme=radical" />
+  <img src="https://raw.githubusercontent.com/JahanzaibJameel/JahanzaibJameel/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -74,12 +100,12 @@ Web Workers • Service Workers • PWA • Module Federation • Micro Frontend
 
 ## 🎯 Current Focus
 
-> Building high-performance **React Native applications** with scalable architecture.
+> Building **scalable React Native applications** with clean architecture.
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Developer Mindset
 
-> "Code is not just written — it is engineered for scale, performance, and impact."
+> "I don't just build UI — I engineer scalable systems."
 
 ---
