@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Curated, Not Overloaded)
+## 🛠️ Tech Stack
 
 ### 🚀 Core
 React • Next.js • React Native • TypeScript • JavaScript
@@ -60,7 +60,7 @@ Git • GitHub • Vercel • Netlify • pnpm
 ## 🌟 Featured Work
 
 🔹 **Portfolio Website**  
-Live: https://voluble-mooncake-68cad9.netlify.app/  
+Live: [voluble-mooncake](https://voluble-mooncake-68cad9.netlify.app/)  
 - High-end UI/UX  
 - Performance optimized  
 - Modern animations  
@@ -70,31 +70,31 @@ Live: https://voluble-mooncake-68cad9.netlify.app/
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JahanzaibJameel&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JahanzaibJameel&theme=tokyonight&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahanzaibJameel&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph (Animated)
+## 🐍 Contribution Graph (Snake)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JahanzaibJameel/JahanzaibJameel/output/github-contribution-grid-snake.svg" />
 </p>
 
+> ⚡ **Note:** Your snake workflow `snake.yml` keeps this graph automatically updated every 12 hours.
+
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/
-- 🌍 Portfolio: https://voluble-mooncake-68cad9.netlify.app/
-- 🧑‍💻 Upwork: https://www.upwork.com/freelancers/~01cf105a2cf8d592ec
-- 🎯 Fiverr: https://www.fiverr.com/sellers/muhammadjahan05/edit
-- 💼 Freelancer: https://www.freelancer.pk/u/muhammadjahanz61
-- 📧 Email: m.jahanzaibjameel@gmail.com
+- 💼 LinkedIn: [Muhammad Jahanzaib](https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/)  
+- 🌍 Portfolio: [voluble-mooncake](https://voluble-mooncake-68cad9.netlify.app/)  
+- 🧑‍💻 Upwork: [profile](https://www.upwork.com/freelancers/~01cf105a2cf8d592ec)  
+- 🎯 Fiverr: [profile](https://www.fiverr.com/sellers/muhammadjahan05/edit)  
+- 💼 Freelancer: [profile](https://www.freelancer.pk/u/muhammadjahanz61)  
+- 📧 Email: m.jahanzaibjameel@gmail.com  
 
 ---
 
@@ -107,5 +107,3 @@ Live: https://voluble-mooncake-68cad9.netlify.app/
 ## ⚡ Developer Mindset
 
 > "I don't just build UI — I engineer scalable systems."
-
----
