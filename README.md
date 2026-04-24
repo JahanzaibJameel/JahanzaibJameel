@@ -39,7 +39,7 @@ React · Next.js · TypeScript · React Native
 Component Design · State Management · Code Splitting · Lazy Loading · Core Web Vitals Optimization
 
 **State & Data Layer**  
-Redux Toolkit · Zustand · TanStack Query · REST · GraphQL
+Redux Toolkit · Zustand · TanStack Query · REST
 
 **Styling Systems**  
 Tailwind CSS · CSS Modules · Shadcn/UI · Responsive Design · Design Systems
@@ -66,7 +66,7 @@ Cross-platform mobile app designed for a **fast, offline-first experience** with
 
 ---
 
-### 💊 HealthNexus – Next.js
+###  HealthNexus – Next.js
 Modern healthcare landing platform built with **Next.js and TypeScript**, focusing on **SSR performance, responsive design, and modular architecture**.
 
 - Live: https://healthnexus-web.netlify.app/  
@@ -75,7 +75,7 @@ Modern healthcare landing platform built with **Next.js and TypeScript**, focusi
 
 ---
 
-### 📊 Financial Analysis Calculator
+###  Financial Analysis Calculator
 Production-grade SPA designed for **accurate financial workflows**, featuring **accessibility (WCAG), internationalization, and automated testing**.
 
 - Live: https://financial-analysis-calculator.netlify.app/  
@@ -84,7 +84,7 @@ Production-grade SPA designed for **accurate financial workflows**, featuring **
 
 ---
 
-### 🍰 AR Bakerz
+###  AR Bakerz
 Fully responsive marketing website built from scratch with **clean semantic HTML and performant animations**.
 
 - Live: https://ar-bakerz.netlify.app/  
