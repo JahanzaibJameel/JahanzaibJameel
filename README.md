@@ -1,90 +1,123 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00C2D1&center=true&vCenter=true&width=700&lines=Frontend+Engineer+%7C+React+%26+Next.js;React+Native+Explorer+%F0%9F%93%B1;Clean+Code+%2B+Performance+%2B+Great+UX;" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=JahanzaibJameel">
-    <img src="https://komarev.com/ghpvc/?username=JahanzaibJameel&label=Profile+visits&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+# Muhammad Jahanzaib
+
+### Frontend Engineer — React · Next.js · React Native
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=1E3A5F&center=true&vCenter=true&width=600&lines=Building+fast%2C+scalable+frontends;Performance+and+UX+first;Open+to+opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
----
-
-## 👋 Hello there! I'm Jahanzaib
-
-I'm a **Frontend Engineer** from Hyderabad, Pakistan, with **1+ year of hands‑on building** — from responsive landing pages to full‑blown Next.js dashboards and cross‑platform mobile apps.  
-I enjoy turning ideas into **real, fast, and beautiful interfaces** that people love to use.
-
-- ⚛️ Core stack: **React • Next.js • React Native • TypeScript**
-- 🎯 Focused on **performance, accessibility, and scalable components**
-- 🌱 Currently diving deeper into **React Native (Expo)** and **modern Next.js patterns**
-- 💼 Open to **full‑time roles (on‑site/remote) & freelance** — let’s build something awesome
+</div>
 
 ---
 
-## 🧰 Tech Toolbox
+<br/>
 
-**Core**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## About
+
+I'm a **Frontend Engineer** based in **Hyderabad, Pakistan**, with **1+ year of hands‑on experience** turning ideas into polished, high‑performance web and mobile applications. My approach is pragmatic, detail‑oriented, and always focused on the end user.
+
+- ⚛️ Core stack: **React, Next.js, React Native** + **TypeScript**
+- 🎯 Prioritising **performance, accessibility, and component architecture**
+- 📱 Currently diving deep into **React Native (Expo & CLI)** and modern Next.js patterns
+- 🌍 Open to **full‑time roles (on‑site / remote) and freelance collaborations**
+
+<br/>
+
+---
+
+## Tech Stack
+
+A curated look at the tools I work with on a daily basis.
+
+**Frontend Core**  
+`React` `Next.js` `React Native` `TypeScript` `JavaScript` `HTML5` `CSS3`
 
 **State & Data**  
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat)
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+`Redux Toolkit` `Zustand` `TanStack Query`
 
-**Styling & UI**  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/-Shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-1572B6?style=flat&logo=css3&logoColor=white)
+**Styling & Design Systems**  
+`Tailwind CSS` `Shadcn/ui` `Material UI` `CSS Modules` `Figma`
 
 **Animation & 3D**  
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+`Framer Motion` `GSAP` `Three.js` `React Three Fiber`
 
 **Backend & APIs**  
-![REST](https://img.shields.io/badge/-REST-009688?style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-1DA1F2?style=flat&logo=auth0&logoColor=white)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+`REST` `GraphQL` `Firebase` `NextAuth.js` `Socket.io`
 
-**Quality & Tools**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+**Testing & Quality**  
+`Jest` `React Testing Library` `Playwright` `Cypress` `ESLint` `Prettier`
+
+**DevOps & Tools**  
+`Git` `GitHub` `Vercel` `Netlify` `pnpm` `Expo` `Docker` (learning)
+
+<br/>
 
 ---
 
-## 📌 Featured Work
+## Selected Work
 
-### 📱 Mobile – React Native
-| Project | Stack | Highlights | 
-|--------|-------|------------|
-| **Notes App** | React Native (Expo), AsyncStorage | Create/delete notes, clean UI, local persistence | 
-| [![Live](https://img.shields.io/badge/-Live%20Demo-brightgreen?style=for-the-badge&logo=netlify&logoColor=white)](https://reactnative-notesapp-expo.netlify.app/) | [![Repo](https://img.shields.io/badge/-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-) |
+What follows is a mix of real‑world projects that reflect my focus on quality, performance, and real functionality.
 
-### 💻 Next.js & React (TypeScript) 
-| Project | Key Features | Links |
-|--------|--------------|-------|
-| **HealthNexus** | Next.js, TypeScript, SSG, responsive design | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=for-the-badge&logo=netlify)](https://healthnexus-web.netlify.app/) [![Repo](https://img.shields.io/badge/-Repo-181717?style=for-the-badge&logo=github)](https://github.com/JahanzaibJameel/HealthNexus-web) |
-| **Financial Analysis Calculator** | React, TypeScript, i18n, WCAG accessibility, Jest tests, real‑time monitoring | [![Live](https://img.shields.io/badge/-Live-00C7B7?style=for-the-badge&logo=netlify)](https://financial-analysis-calculator.netlify.app/) [![Repo](https://img.shields.io/badge/-Repo-181717?style=for-the-badge&logo=github)](https://github.com/JahanzaibJameel/Financial-Analysis-Calculator) |
+<br/>
 
-### 🧱 Core Fundamentals – HTML/CSS/JS  
-| Project | Description |
-|--------|-------------|
-| **AR Bakerz** | A premium bakery landing – fully responsive, beautifully animated. [Live](https://ar-bakerz.netlify.app/) • [Code](https://github.com/JahanzaibJameel/AR-Bakerz) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Notes App – React Native</h3>
+      <p>
+        Cross‑platform mobile note‑taking app built with <strong>Expo</strong>. Features local persistence, search, and a clean, minimal UI.
+      </p>
+      <p>
+        <a href="https://reactnative-notesapp-expo.netlify.app/">Live Demo</a> · 
+        <a href="https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-">Source Code</a>
+      </p>
+      <p><small>React Native · Expo · AsyncStorage</small></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💊 HealthNexus – Next.js</h3>
+      <p>
+        A health‑focused landing page built with <strong>Next.js and TypeScript</strong>. Server‑side rendering, responsive design, and modular components.
+      </p>
+      <p>
+        <a href="https://healthnexus-web.netlify.app/">Live Demo</a> · 
+        <a href="https://github.com/JahanzaibJameel/HealthNexus-web">Source Code</a>
+      </p>
+      <p><small>Next.js · TypeScript · Tailwind CSS</small></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Financial Analysis Calculator – React</h3>
+      <p>
+        A sophisticated SPA with <strong>TypeScript</strong>, internationalization (i18n), WCAG accessibility, and automated tests. Focus on real‑world development standards.
+      </p>
+      <p>
+        <a href="https://financial-analysis-calculator.netlify.app/">Live Demo</a> · 
+        <a href="https://github.com/JahanzaibJameel/Financial-Analysis-Calculator">Source Code</a>
+      </p>
+      <p><small>React · TypeScript · Jest · i18n · Accessibility</small></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍰 AR Bakerz – HTML/CSS/JS</h3>
+      <p>
+        A fully responsive, animated bakery website built from scratch. Demonstrates deep understanding of core web fundamentals.
+      </p>
+      <p>
+        <a href="https://ar-bakerz.netlify.app/">Live Demo</a> · 
+        <a href="https://github.com/JahanzaibJameel/AR-Bakerz">Source Code</a>
+      </p>
+      <p><small>HTML5 · CSS3 · JavaScript · GSAP</small></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=tokyonight&count_private=true" />
@@ -92,49 +125,28 @@ I enjoy turning ideas into **real, fast, and beautiful interfaces** that people 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahanzaibJameel&layout=compact&theme=tokyonight" />
 </div>
 
----
-
-## 🐍 Contribution Snake
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/JahanzaibJameel/JahanzaibJameel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+<br/>
+
 ---
 
-## 🤙 Let's Connect
+## Let’s Connect
 
-I'm always up for a chat about new opportunities, freelance work, or just a friendly tech discussion.
+I’m always happy to discuss new projects, roles, or just chat about frontend engineering.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://voluble-mooncake-68cad9.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01cf105a2cf8d592ec">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/muhammadjahan05?public_mode=true">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="https://www.freelancer.pk/u/muhammadjahanz61">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
-  </a>
-  <a href="mailto:m.jahanzaibjameel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=netlify&logoColor=white)](https://voluble-mooncake-68cad9.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jahanzaibjameel@gmail.com)
+
 </div>
 
----
+<br/>
 
-## 🎯 What I'm Currently Upto
-
-- Getting serious about **React Native performance** — Hermes, re‑renders, smooth animations  
-- Building a **Next.js SaaS boilerplate** with auth, dashboards, and clean architecture  
-- Exploring **AI‑enhanced UIs** using OpenAI APIs and RAG patterns  
-
----
-
-> *"I build fast, reliable, and maintainable frontends — not just UI."*
+> *“I build fast, reliable, and maintainable frontend systems — not just UI.”*
