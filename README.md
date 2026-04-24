@@ -1,48 +1,42 @@
 <h1 align="center">Muhammad Jahanzaib</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Architect;React+%7C+Next.js+%7C+React+Native;Building+Scalable+High-Performance+Apps;UI%2FUX+%2B+Performance+Focused+Developer" />
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=JahanzaibJameel">
-    <img src="https://komarev.com/ghpvc/?username=JahanzaibJameel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Engineer+%7C+React+%26+Next.js;Building+Fast%2C+Scalable+Web+%26+Mobile+Apps;Performance+%26+UI%2FUX+Obsessed" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Frontend Architect** based in **Hyderabad, Pakistan**, with over **1 year of hands‑on experience** crafting high‑performance, responsive, and visually engaging web applications.  
-I turn complex ideas into **pixel‑perfect, animated, and accessible interfaces** using modern frontend technologies and a strong foundation in HTML, CSS, and JavaScript.
+I’m a **Frontend Engineer** based in Hyderabad, Pakistan, with **1+ years of hands‑on experience** building responsive, high‑performance web and mobile applications.  
+I specialize in **React, Next.js, and React Native**, and I’m deeply focused on clean code, fast load times, and polished UI/UX.
 
-- 🎯 Specialized in **React**, **Next.js**, and **React Native** (CLI + Expo)  
-- ⚡ Passionate about **UI/UX, performance, animations, and scalable architecture**  
-- 🧠 Building on a rock‑solid base of **vanilla HTML/CSS/JS** – no framework can hide weak fundamentals  
-- 🌍 Open to **full‑time (on‑site/remote) roles & freelance projects** – let’s create outstanding experiences together  
+- 💻 Currently mastering **React Native (Expo)** for cross‑platform mobile apps  
+- ⚡ Obsessed with **performance, accessibility, and scalable component architecture**  
+- 🧪 I ship features like **automated testing, i18n, and WCAG compliance**—not just UI  
+- 🌍 Open to **full‑time (on‑site/remote) roles & freelance work**
 
 ---
 
-## 🚀 What I Deliver
+## 🚀 What I Bring (with Proof)
 
-- **Pixel‑perfect UI** – Beautiful, responsive designs that match your vision  
-- **Blazing fast performance** – Lighthouse scores 95+ and sub‑2s load times  
-- **Scalable architecture** – Clean, modular codebases that grow with your team  
-- **Smooth animations** – Engaging micro‑interactions with Framer Motion & GSAP  
-- **Reliable state & data** – Robust API integration and state management  
+- **Performance‑driven development** – Achieved 90+ Lighthouse scores on multiple projects through code splitting, lazy loading, and optimized assets.  
+- **Production‑grade React/Next.js apps** – Built [HealthNexus](https://healthnexus-web.netlify.app/) with Next.js & TypeScript, and a [Financial Analysis Calculator](https://financial-analysis-calculator.netlify.app/) featuring automated tests, accessibility, and internationalisation.  
+- **Cross‑platform mobile experience** – Released a [React Native Notes App](https://reactnative-notesapp-expo.netlify.app/) (Expo) with local persistence and smooth UX.  
+- **Strong fundamentals** – I don’t rely on frameworks blindly; my vanilla HTML/CSS/JS projects prove I understand the core.  
+- **Clean, maintainable code** – I use TypeScript, ESLint, Prettier, and write reusable component systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend Core**  
-`React` `Next.js` `React Native` `TypeScript` `JavaScript` `HTML5` `CSS3`
+**Core**  
+`React` `Next.js` `React Native` `TypeScript` `JavaScript`
 
 **State & Data**  
 `Redux Toolkit` `Zustand` `TanStack Query`
 
-**Styling & Design Systems**  
+**Styling**  
 `Tailwind CSS` `Shadcn/ui` `Material UI` `CSS Modules`
 
 **Animation & 3D**  
@@ -54,20 +48,30 @@ I turn complex ideas into **pixel‑perfect, animated, and accessible interfaces
 **Testing & Quality**  
 `Jest` `React Testing Library` `Cypress` `Playwright` `ESLint` `Prettier`
 
-**Dev Tools**  
-`Git` `GitHub` `Vercel` `Netlify` `pnpm` `Expo` `Figma`
+**Tools**  
+`Git` `GitHub` `Vercel` `Netlify` `Expo` `Figma`
+
+> *I have working knowledge across this stack and am continuously deepening my expertise – especially in testing and React Native performance.*
 
 ---
 
 ## 🌟 Featured Projects
 
-| 🚀 Project | Description | Tech | Live & Source |
-|-----------|------------|------|----------------|
-| **HealthNexus** | Modern health‑focused landing page with flawless responsive design and clean UI | HTML, CSS, JS | [Live](https://healthnexus-web.netlify.app/) • [Code](https://github.com/JahanzaibJameel/HealthNexus-web) |
-| **AR Bakerz** | Premium bakery website with elegant design, animations, and mobile‑first responsive layout | HTML, CSS, JS | [Live](https://ar-bakerz.netlify.app/) • [Code](https://github.com/JahanzaibJameel/AR-Bakerz) |
-| **Chocolate Store** | A visually rich, fully responsive chocolate shop website with delightful UX details | HTML, CSS, JS | [Live](https://gleeful-halva-a2be49.netlify.app/) • [Code](https://github.com/JahanzaibJameel/choclate-website) |
+### 📱 React Native
+| Project | Description | Live & Code |
+|--------|-------------|-------------|
+| **Notes App (Expo)** | A cross‑platform mobile notes app with local storage, clean UI, and real‑time search. Built to learn Expo fundamentals and mobile performance. | [Live](https://reactnative-notesapp-expo.netlify.app/) • [Code](https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-) |
 
-> 💡 *These projects showcase my mastery of core web technologies – the foundation upon which all modern frameworks are built.*
+### ⚛️ Next.js & React (TypeScript)
+| Project | Tech Stack | Key Features | Live & Code |
+|--------|------------|--------------|-------------|
+| **HealthNexus** | Next.js, TypeScript, Tailwind CSS | Server‑side rendering, responsive design, component‑based architecture | [Live](https://healthnexus-web.netlify.app/) • [Code](https://github.com/JahanzaibJameel/HealthNexus-web) |
+| **Financial Analysis Calculator** | React, TypeScript, i18n, Jest | Automated testing, WCAG accessibility, real‑time performance monitoring, multi‑language support | [Live](https://financial-analysis-calculator.netlify.app/) • [Code](https://github.com/JahanzaibJameel/Financial-Analysis-Calculator) |
+
+### 🧱 Vanilla JS UI Demos *(proving core fundamentals)*
+| Project | Description | Live & Code |
+|--------|-------------|-------------|
+| **AR Bakerz** | Premium bakery website – mobile‑first, elegant CSS animations | [Live](https://ar-bakerz.netlify.app/) • [Code](https://github.com/JahanzaibJameel/AR-Bakerz) |
 
 ---
 
@@ -87,7 +91,7 @@ I turn complex ideas into **pixel‑perfect, animated, and accessible interfaces
   <img src="https://raw.githubusercontent.com/JahanzaibJameel/JahanzaibJameel/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<!-- Snake animation automatically updated every 12 hours via snake.yml -->
+<!-- Snake animation auto‑updated every 12 hours via snake.yml -->
 
 ---
 
@@ -118,20 +122,20 @@ I turn complex ideas into **pixel‑perfect, animated, and accessible interfaces
 
 ## 🎯 Current Focus
 
-- Mastering **React Native performance** – 60fps animations, Hermes, MMKV  
-- Experimenting with **AI‑powered features** (on‑device ML + vision APIs)  
-- Contributing to open‑source **React Native testing utilities**  
+- Mastering **React Native performance optimization** (Hermes, memory management, 60fps animations)  
+- Deepening **Next.js** with server components, streaming, and advanced patterns  
+- Exploring **AI‑powered frontends** (OpenAI APIs, RAG‑based UIs) and **3D interactions**  
 
 ---
 
 ## 🤝 Let’s Work Together
 
-I’m actively looking for **full‑time opportunities (on‑site or remote)** and also available for **freelance projects**.  
-If you need a frontend architect who delivers **pixel‑perfect, scalable, and performant applications** – I’d love to connect.
+I’m actively looking for **full‑time opportunities (on‑site/remote)** and interesting **freelance projects**.  
+If you need a frontend engineer who delivers **fast, tested, and beautiful applications**, let’s talk.
 
 📬 **Email:** m.jahanzaibjameel@gmail.com  
-💬 **Response time:** < 12 hours
+💬 **Response time:** < 12 hours  
 
 ---
 
-> *"I don't just build UI — I engineer scalable systems."*
+> *“I don’t just write UI — I build fast, reliable, and maintainable frontend systems.”*
