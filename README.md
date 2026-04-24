@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=JahanzaibJameel">
-    <img src="https://komarev.com/ghpvc/?username=JahanzaibJameel&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=JahanzaibJameel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -14,56 +14,60 @@
 
 ## 🧠 About Me
 
-- 💻 Frontend Architect specializing in **React Ecosystem**
-- ⚡ Building **scalable, performant & production-grade apps**
-- 🎯 Strong focus on **UI/UX, animations & system design**
-- 📱 Currently focused on **React Native (CLI + Expo)**
-- 🚀 Exploring **AI + Web + 3D integration**
+I'm a **Frontend Architect** based in **Hyderabad, Pakistan**, with over **1 year of hands‑on experience** crafting high‑performance, responsive, and visually engaging web applications.  
+I turn complex ideas into **pixel‑perfect, animated, and accessible interfaces** using modern frontend technologies and a strong foundation in HTML, CSS, and JavaScript.
+
+- 🎯 Specialized in **React**, **Next.js**, and **React Native** (CLI + Expo)  
+- ⚡ Passionate about **UI/UX, performance, animations, and scalable architecture**  
+- 🧠 Building on a rock‑solid base of **vanilla HTML/CSS/JS** – no framework can hide weak fundamentals  
+- 🌍 Open to **full‑time (on‑site/remote) roles & freelance projects** – let’s create outstanding experiences together  
 
 ---
 
-## 🚀 Core Expertise
+## 🚀 What I Deliver
 
-✔ Frontend Architecture  
-✔ Performance Optimization  
-✔ Scalable Component Systems  
-✔ Advanced Animations & Interactions  
-✔ API Integration & State Management  
+- **Pixel‑perfect UI** – Beautiful, responsive designs that match your vision  
+- **Blazing fast performance** – Lighthouse scores 95+ and sub‑2s load times  
+- **Scalable architecture** – Clean, modular codebases that grow with your team  
+- **Smooth animations** – Engaging micro‑interactions with Framer Motion & GSAP  
+- **Reliable state & data** – Robust API integration and state management  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Core
-React • Next.js • React Native • TypeScript • JavaScript
+**Frontend Core**  
+`React` `Next.js` `React Native` `TypeScript` `JavaScript` `HTML5` `CSS3`
 
-### ⚡ State & Data
-Redux Toolkit • Zustand • TanStack Query • Recoil
+**State & Data**  
+`Redux Toolkit` `Zustand` `TanStack Query`
 
-### 🎨 UI / Styling
-Tailwind CSS • Shadcn/UI • CSS Modules • Material UI
+**Styling & Design Systems**  
+`Tailwind CSS` `Shadcn/ui` `Material UI` `CSS Modules`
 
-### 🎬 Animations & Graphics
-Framer Motion • GSAP • Three.js • React Three Fiber
+**Animation & 3D**  
+`Framer Motion` `GSAP` `Three.js` `React Three Fiber`
 
-### 🌐 Backend & APIs
-REST APIs • Firebase • Auth.js • WebSockets
+**Backend & APIs**  
+`REST` `GraphQL` `Firebase` `NextAuth.js (Auth.js v5)` `Socket.io`
 
-### 🧪 Testing & Quality
-Jest • Cypress • Playwright • ESLint • Prettier
+**Testing & Quality**  
+`Jest` `React Testing Library` `Cypress` `Playwright` `ESLint` `Prettier`
 
-### ⚙️ Tools
-Git • GitHub • Vercel • Netlify • pnpm
+**Dev Tools**  
+`Git` `GitHub` `Vercel` `Netlify` `pnpm` `Expo` `Figma`
 
 ---
 
-## 🌟 Featured Work
+## 🌟 Featured Projects
 
-🔹 **Portfolio Website**  
-Live: [voluble-mooncake](https://voluble-mooncake-68cad9.netlify.app/)  
-- High-end UI/UX  
-- Performance optimized  
-- Modern animations  
+| 🚀 Project | Description | Tech | Live & Source |
+|-----------|------------|------|----------------|
+| **HealthNexus** | Modern health‑focused landing page with flawless responsive design and clean UI | HTML, CSS, JS | [Live](https://healthnexus-web.netlify.app/) • [Code](https://github.com/JahanzaibJameel/HealthNexus-web) |
+| **AR Bakerz** | Premium bakery website with elegant design, animations, and mobile‑first responsive layout | HTML, CSS, JS | [Live](https://ar-bakerz.netlify.app/) • [Code](https://github.com/JahanzaibJameel/AR-Bakerz) |
+| **Chocolate Store** | A visually rich, fully responsive chocolate shop website with delightful UX details | HTML, CSS, JS | [Live](https://gleeful-halva-a2be49.netlify.app/) • [Code](https://github.com/JahanzaibJameel/choclate-website) |
+
+> 💡 *These projects showcase my mastery of core web technologies – the foundation upon which all modern frameworks are built.*
 
 ---
 
@@ -77,33 +81,57 @@ Live: [voluble-mooncake](https://voluble-mooncake-68cad9.netlify.app/)
 
 ---
 
-## 🐍 Contribution Graph (Snake)
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JahanzaibJameel/JahanzaibJameel/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/JahanzaibJameel/JahanzaibJameel/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> ⚡ **Note:** Your snake workflow `snake.yml` keeps this graph automatically updated every 12 hours.
+<!-- Snake animation automatically updated every 12 hours via snake.yml -->
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Muhammad Jahanzaib](https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/)  
-- 🌍 Portfolio: [voluble-mooncake](https://voluble-mooncake-68cad9.netlify.app/)  
-- 🧑‍💻 Upwork: [profile](https://www.upwork.com/freelancers/~01cf105a2cf8d592ec)  
-- 🎯 Fiverr: [profile](https://www.fiverr.com/sellers/muhammadjahan05/edit)  
-- 💼 Freelancer: [profile](https://www.freelancer.pk/u/muhammadjahanz61)  
-- 📧 Email: m.jahanzaibjameel@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://voluble-mooncake-68cad9.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01cf105a2cf8d592ec">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/muhammadjahan05?public_mode=true">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://www.freelancer.pk/u/muhammadjahanz61">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+  </a>
+  <a href="mailto:m.jahanzaibjameel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-> Building **scalable React Native applications** with clean architecture.
+- Mastering **React Native performance** – 60fps animations, Hermes, MMKV  
+- Experimenting with **AI‑powered features** (on‑device ML + vision APIs)  
+- Contributing to open‑source **React Native testing utilities**  
 
 ---
 
-## ⚡ Developer Mindset
+## 🤝 Let’s Work Together
 
-> "I don't just build UI — I engineer scalable systems."
+I’m actively looking for **full‑time opportunities (on‑site or remote)** and also available for **freelance projects**.  
+If you need a frontend architect who delivers **pixel‑perfect, scalable, and performant applications** – I’d love to connect.
+
+📬 **Email:** m.jahanzaibjameel@gmail.com  
+💬 **Response time:** < 12 hours
+
+---
+
+> *"I don't just build UI — I engineer scalable systems."*
