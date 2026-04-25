@@ -5,7 +5,7 @@
 ### Frontend Engineer (React · Next.js · React Native)
 
 <p>
-  Building fast, scalable, and production-grade frontend systems
+  I build performant, scalable frontend systems designed for real-world usage — not just demos.
 </p>
 
 </div>
@@ -14,96 +14,136 @@
 
 ## About
 
-I’m a **Frontend Engineer** focused on building **high-performance, scalable, and maintainable web & mobile applications** using React and React Native.
+Frontend Engineer specializing in **React, Next.js, and React Native**, with a strong focus on **performance, scalability, and maintainable architecture**.
 
-I specialize in:
-- **Component architecture** that scales across large applications  
-- **Performance optimization** (Core Web Vitals, rendering, bundle size)  
-- **Clean UI systems** with strong accessibility and usability principles  
+I work on applications beyond surface-level UI — focusing on how systems behave under real conditions: load time, rendering efficiency, state complexity, and long-term maintainability.
 
-I don’t just build interfaces — I build **frontend systems that are fast, reliable, and designed for real-world usage**.
+**What I focus on:**
 
-Currently:
-- Working with **React, Next.js (App Router), TypeScript, React Native**
-- Deep diving into **React Native performance & advanced frontend architecture**
-- Exploring **AI-powered interfaces and real-time applications**
+* Designing **scalable component architectures**
+* Improving **performance (Core Web Vitals, rendering, bundle size)**
+* Building **clean, accessible, and production-ready UI systems**
+
+**Currently working with:**
+React · Next.js (App Router) · TypeScript · React Native · Expo
 
 ---
 
 ## Core Expertise
 
-**Frontend Engineering**  
+**Frontend Engineering**
 React · Next.js · TypeScript · React Native
 
-**Architecture & Performance**  
-Component Design · State Management · Code Splitting · Lazy Loading · Core Web Vitals Optimization
+**Architecture & Performance**
+Component Architecture · Rendering Optimization · Code Splitting · Lazy Loading · Memoization · Core Web Vitals
 
-**State & Data Layer**  
-Redux Toolkit · Zustand · TanStack Query · REST
+**State & Data Layer**
+Redux Toolkit · Zustand · TanStack Query · REST APIs
 
-**Styling Systems**  
-Tailwind CSS · CSS Modules · Shadcn/UI · Responsive Design · Design Systems
+**UI Systems**
+Tailwind CSS · CSS Modules · Design Systems · Responsive UI · Accessibility (WCAG)
 
-**Testing & Quality**  
+**Testing & Code Quality**
 Jest · React Testing Library · Playwright · Cypress · ESLint · Prettier
 
-**Advanced UI & Motion**  
-Framer Motion · GSAP · Three.js · React Three Fiber
+**Animations & Advanced UI**
+Framer Motion · GSAP
 
-**Tools & Workflow**  
-Git · GitHub · Vercel · Netlify · pnpm · Expo · Docker (learning)
-
----
-
-## Selected Projects
-
-### 📱 Notes App – React Native
-Cross-platform mobile app designed for a **fast, offline-first experience** with local persistence and instant search. Focused on smooth performance and native-like UX.
-
-- Live: https://reactnative-notesapp-expo.netlify.app/  
-- Code: https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-  
-- Stack: React Native · Expo · AsyncStorage  
+**Workflow & Tooling**
+Git · GitHub · Vercel · Netlify · pnpm · Expo
 
 ---
 
-###  HealthNexus – Next.js
-Modern healthcare landing platform built with **Next.js and TypeScript**, focusing on **SSR performance, responsive design, and modular architecture**.
+## Selected Work
 
-- Live: https://healthnexus-web.netlify.app/  
-- Code: https://github.com/JahanzaibJameel/HealthNexus-web  
-- Stack: Next.js · TypeScript · Tailwind CSS  
+### 📱 Notes App — React Native (Expo)
 
----
+A cross-platform mobile application built with a focus on **offline-first performance and fast user interactions**.
 
-###  Financial Analysis Calculator
-Production-grade SPA designed for **accurate financial workflows**, featuring **accessibility (WCAG), internationalization, and automated testing**.
+**Key Engineering Work:**
 
-- Live: https://financial-analysis-calculator.netlify.app/  
-- Code: https://github.com/JahanzaibJameel/Financial-Analysis-Calculator  
-- Stack: React · TypeScript · Jest · i18n · Accessibility  
+* Implemented **AsyncStorage-based persistence** for offline access and instant app startup
+* Designed lightweight state handling to minimize unnecessary re-renders
+* Built **instant search functionality** optimized for large note lists
 
----
+**Result:**
 
-###  AR Bakerz
-Fully responsive marketing website built from scratch with **clean semantic HTML and performant animations**.
+* Fast load times with no dependency on network state
+* Smooth UX comparable to native note-taking apps
 
-- Live: https://ar-bakerz.netlify.app/  
-- Code: https://github.com/JahanzaibJameel/AR-Bakerz  
-- Stack: HTML5 · CSS3 · JavaScript · GSAP  
+**Tech:** React Native · Expo · AsyncStorage
+**Code:** https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-
 
 ---
 
-## Engineering Principles
+### 🏥 HealthNexus — Next.js Platform
 
-- Build **systems**, not just components  
-- Prioritize **performance over unnecessary complexity**  
-- Write code that is **scalable, testable, and maintainable**  
-- Focus on **real user experience**, not just visuals  
-- Prefer **clarity over cleverness**
+A modern healthcare web platform built with **Next.js App Router and TypeScript**, focused on **SSR performance and modular architecture**.
+
+**Key Engineering Work:**
+
+* Structured app using **modular component architecture** for scalability
+* Optimized pages for **server-side rendering and faster initial load**
+* Built fully responsive layouts with reusable UI patterns
+
+**Result:**
+
+* Improved perceived performance and SEO readiness
+* Clean structure for future feature expansion
+
+**Tech:** Next.js · TypeScript · Tailwind CSS
+**Live:** https://healthnexus-web.netlify.app/
+**Code:** https://github.com/JahanzaibJameel/HealthNexus-web
 
 ---
 
-## GitHub Stats
+### 📊 Financial Analysis Calculator
+
+A production-focused SPA designed for **accurate financial workflows**, with emphasis on **accessibility and reliability**.
+
+**Key Engineering Work:**
+
+* Implemented **WCAG-compliant accessible UI**
+* Integrated **internationalization (i18n)** for multi-region usability
+* Wrote **unit and integration tests** for calculation reliability
+
+**Result:**
+
+* Reliable calculations with strong edge-case handling
+* Accessible experience across different user needs
+
+**Tech:** React · TypeScript · Jest · i18n
+**Live:** https://financial-analysis-calculator.netlify.app/
+**Code:** https://github.com/JahanzaibJameel/Financial-Analysis-Calculator
+
+---
+
+### 🍞 AR Bakerz — Marketing Website
+
+A responsive marketing website focused on **performance, clean semantics, and smooth animations**.
+
+**Key Engineering Work:**
+
+* Built using **semantic HTML structure** for SEO and accessibility
+* Optimized animations using **GSAP without impacting performance**
+* Ensured responsive layout across all screen sizes
+
+**Tech:** HTML · CSS · JavaScript · GSAP
+**Live:** https://ar-bakerz.netlify.app/
+**Code:** https://github.com/JahanzaibJameel/AR-Bakerz
+
+---
+
+## Engineering Approach
+
+* Build systems that **scale with complexity**, not just features
+* Optimize for **real performance**, not synthetic benchmarks
+* Write code that remains **maintainable under growth**
+* Focus on **user experience under real conditions (network, device, load)**
+
+---
+
+## GitHub Activity
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=6" />
@@ -111,6 +151,7 @@ Fully responsive marketing website built from scratch with **clean semantic HTML
 </div>
 
 ---
+
 ## Connect
 
 <div align="center">
@@ -140,6 +181,6 @@ Fully responsive marketing website built from scratch with **clean semantic HTML
 
 <div align="center">
 
-> *“I build fast, scalable, and production-ready frontend systems — not just UI.”*
+> *I focus on building frontend systems that remain fast, scalable, and maintainable as they grow.*
 
 </div>
