@@ -2,185 +2,200 @@
 
 # Muhammad Jahanzaib
 
-### Frontend Engineer (React · Next.js · React Native)
+### Frontend Engineer • React • Next.js • React Native
+
+Building scalable, performant frontend systems focused on real-world user experience, maintainability, and production reliability.
 
 <p>
-  I build performant, scalable frontend systems designed for real-world usage — not just demos.
+  <a href="https://voluble-mooncake-68cad9.netlify.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/">LinkedIn</a> •
+  <a href="mailto:m.jahanzaibjameel@gmail.com">Email</a>
 </p>
 
 </div>
 
 ---
 
-## About
+# About Me
 
-Frontend Engineer specializing in **React, Next.js, and React Native**, with a strong focus on **performance, scalability, and maintainable architecture**.
+Frontend Engineer focused on building modern web and mobile applications using:
 
-I work on applications beyond surface-level UI — focusing on how systems behave under real conditions: load time, rendering efficiency, state complexity, and long-term maintainability.
+- React
+- Next.js
+- React Native
+- TypeScript
 
-**What I focus on:**
+I care deeply about:
 
-* Designing **scalable component architectures**
-* Improving **performance (Core Web Vitals, rendering, bundle size)**
-* Building **clean, accessible, and production-ready UI systems**
+- scalable frontend architecture
+- rendering performance
+- maintainable codebases
+- accessibility
+- production-ready UI systems
 
-**Currently working with:**
-React · Next.js (App Router) · TypeScript · React Native · Expo
-
----
-
-## Core Expertise
-
-**Frontend Engineering**
-React · Next.js · TypeScript · React Native
-
-**Architecture & Performance**
-Component Architecture · Rendering Optimization · Code Splitting · Lazy Loading · Memoization · Core Web Vitals
-
-**State & Data Layer**
-Redux Toolkit · Zustand · TanStack Query · REST APIs
-
-**UI Systems**
-Tailwind CSS · CSS Modules · Design Systems · Responsive UI · Accessibility (WCAG)
-
-**Testing & Code Quality**
-Jest · React Testing Library · Playwright · Cypress · ESLint · Prettier
-
-**Animations & Advanced UI**
-Framer Motion · GSAP
-
-**Workflow & Tooling**
-Git · GitHub · Vercel · Netlify · pnpm · Expo
+My work goes beyond building interfaces — I focus on how applications behave under real usage conditions:
+slow devices, large state trees, network instability, and long-term product growth.
 
 ---
 
-## Selected Work
+# Core Skills
 
-### 📱 Notes App — React Native (Expo)
+## Frontend Engineering
 
-A cross-platform mobile application built with a focus on **offline-first performance and fast user interactions**.
+React • Next.js • TypeScript • React Native • Expo
 
-**Key Engineering Work:**
+## Performance & Architecture
 
-* Implemented **AsyncStorage-based persistence** for offline access and instant app startup
-* Designed lightweight state handling to minimize unnecessary re-renders
-* Built **instant search functionality** optimized for large note lists
+Code Splitting • Lazy Loading • Rendering Optimization • Memoization • Core Web Vitals • Modular Architecture
 
-**Result:**
+## State & Data
 
-* Fast load times with no dependency on network state
-* Smooth UX comparable to native note-taking apps
+Redux Toolkit • Zustand • TanStack Query • REST APIs
 
-**Tech:** React Native · Expo · AsyncStorage
-**Code:** https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-
+## UI Engineering
 
----
+Tailwind CSS • Responsive Design • Accessibility (WCAG) • Design Systems • CSS Modules
 
-### 🏥 HealthNexus — Next.js Platform
+## Testing & Quality
 
-A modern healthcare web platform built with **Next.js App Router and TypeScript**, focused on **SSR performance and modular architecture**.
+Jest • React Testing Library • Playwright • Cypress • ESLint • Prettier
 
-**Key Engineering Work:**
+## Animation & Interaction
 
-* Structured app using **modular component architecture** for scalability
-* Optimized pages for **server-side rendering and faster initial load**
-* Built fully responsive layouts with reusable UI patterns
-
-**Result:**
-
-* Improved perceived performance and SEO readiness
-* Clean structure for future feature expansion
-
-**Tech:** Next.js · TypeScript · Tailwind CSS
-**Live:** https://healthnexus-web.netlify.app/
-**Code:** https://github.com/JahanzaibJameel/HealthNexus-web
+Framer Motion • GSAP
 
 ---
 
-### 📊 Financial Analysis Calculator
+# Featured Projects
 
-A production-focused SPA designed for **accurate financial workflows**, with emphasis on **accessibility and reliability**.
+## 📱 Notes App — React Native
 
-**Key Engineering Work:**
+Offline-first mobile notes application optimized for fast interactions and smooth UX.
 
-* Implemented **WCAG-compliant accessible UI**
-* Integrated **internationalization (i18n)** for multi-region usability
-* Wrote **unit and integration tests** for calculation reliability
+### Engineering Highlights
 
-**Result:**
+- AsyncStorage persistence for instant startup and offline usage
+- Optimized state handling to reduce unnecessary re-renders
+- Instant search optimized for large datasets
 
-* Reliable calculations with strong edge-case handling
-* Accessible experience across different user needs
+### Stack
 
-**Tech:** React · TypeScript · Jest · i18n
-**Live:** https://financial-analysis-calculator.netlify.app/
-**Code:** https://github.com/JahanzaibJameel/Financial-Analysis-Calculator
+React Native • Expo • AsyncStorage
 
----
+### Links
 
-### 🍞 AR Bakerz — Marketing Website
-
-A responsive marketing website focused on **performance, clean semantics, and smooth animations**.
-
-**Key Engineering Work:**
-
-* Built using **semantic HTML structure** for SEO and accessibility
-* Optimized animations using **GSAP without impacting performance**
-* Ensured responsive layout across all screen sizes
-
-**Tech:** HTML · CSS · JavaScript · GSAP
-**Live:** https://ar-bakerz.netlify.app/
-**Code:** https://github.com/JahanzaibJameel/AR-Bakerz
+- Live Code:  
+  https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-
 
 ---
 
-## Engineering Approach
+## 🏥 HealthNexus — Next.js Platform
 
-* Build systems that **scale with complexity**, not just features
-* Optimize for **real performance**, not synthetic benchmarks
-* Write code that remains **maintainable under growth**
-* Focus on **user experience under real conditions (network, device, load)**
+Healthcare platform focused on SSR performance, modular architecture, and scalability.
+
+### Engineering Highlights
+
+- Built with App Router + TypeScript
+- Reusable component architecture for maintainability
+- Optimized SSR behavior and responsive rendering
+
+### Stack
+
+Next.js • TypeScript • Tailwind CSS
+
+### Links
+
+- Live:  
+  https://healthnexus-web.netlify.app/
+
+- Code:  
+  https://github.com/JahanzaibJameel/HealthNexus-web
 
 ---
 
-## GitHub Activity
+## 📊 Financial Analysis Calculator
+
+Production-focused SPA emphasizing reliability, accessibility, and testing quality.
+
+### Engineering Highlights
+
+- WCAG-compliant accessible interface
+- Internationalization (i18n) support
+- Unit + integration test coverage for calculation reliability
+
+### Stack
+
+React • TypeScript • Jest • i18n
+
+### Links
+
+- Live:  
+  https://financial-analysis-calculator.netlify.app/
+
+- Code:  
+  https://github.com/JahanzaibJameel/Financial-Analysis-Calculator
+
+---
+
+## 🍞 AR Bakerz
+
+Responsive marketing website focused on clean semantics and performant animation systems.
+
+### Engineering Highlights
+
+- Semantic HTML structure for accessibility + SEO
+- GSAP-powered animations optimized for smooth performance
+- Responsive layout across device sizes
+
+### Stack
+
+HTML • CSS • JavaScript • GSAP
+
+### Links
+
+- Live:  
+  https://ar-bakerz.netlify.app/
+
+- Code:  
+  https://github.com/JahanzaibJameel/AR-Bakerz
+
+---
+
+# Engineering Philosophy
+
+- Build systems that scale with product complexity
+- Prioritize real performance over artificial metrics
+- Keep codebases maintainable as teams grow
+- Focus on UX under realistic conditions
+
+---
+
+# GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=6" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JahanzaibJameel&theme=tokyonight&border_radius=6" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JahanzaibJameel&theme=tokyonight" />
+
 </div>
 
 ---
 
-## Connect
+# Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://voluble-mooncake-68cad9.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.upwork.com/freelancers/~01cf105a2cf8d592ec">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
-<a href="https://www.fiverr.com/muhammadjahan05?public_mode=true">
-  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-</a>
-
-<br/><br/>
 
 <a href="mailto:m.jahanzaibjameel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-> *I focus on building frontend systems that remain fast, scalable, and maintainable as they grow.*
 
 </div>
