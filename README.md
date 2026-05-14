@@ -6,11 +6,6 @@
 
 Building scalable, performant frontend systems focused on real-world user experience, maintainability, and production reliability.
 
-<p>
-  <a href="https://voluble-mooncake-68cad9.netlify.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/">LinkedIn</a> •
-  <a href="mailto:m.jahanzaibjameel@gmail.com">Email</a>
-</p>
 
 </div>
 
