@@ -2,10 +2,13 @@
 
 # Muhammad Jahanzaib
 
-### Frontend Engineer • React • Next.js • React Native
+### Frontend & Mobile Engineer
 
-Building scalable, performant frontend systems focused on real-world user experience, maintainability, and production reliability.
+Building scalable, high-performance web and mobile applications with modern frontend architecture, strong UX foundations, and production-focused engineering.
 
+<p>
+  React • Next.js • React Native • TypeScript • Angular • Vue • Astro
+</p>
 
 </div>
 
@@ -13,51 +16,105 @@ Building scalable, performant frontend systems focused on real-world user experi
 
 # About Me
 
-Frontend Engineer focused on building modern web and mobile applications using:
+Frontend & Mobile Engineer focused on building modern applications that prioritize:
 
-- React
-- Next.js
-- React Native
-- TypeScript
-
-I care deeply about:
-
-- scalable frontend architecture
-- rendering performance
-- maintainable codebases
+- scalability
+- performance
+- maintainability
 - accessibility
-- production-ready UI systems
+- real-world user experience
 
-My work goes beyond building interfaces — I focus on how applications behave under real usage conditions:
-slow devices, large state trees, network instability, and long-term product growth.
+I specialize in creating production-ready systems using modern frontend ecosystems including React, Next.js, React Native, Angular, and TypeScript.
+
+My engineering approach focuses on how applications behave in realistic environments:
+
+- low-end mobile devices
+- unstable network conditions
+- large state-heavy applications
+- long-term product scalability
+- enterprise-grade maintainability
+
+I enjoy designing systems that remain fast, predictable, and maintainable as products grow.
 
 ---
 
-# Core Skills
+# Tech Stack
 
-## Frontend Engineering
+## Frontend Development
 
-React • Next.js • TypeScript • React Native • Expo
+- React
+- Next.js
+- Angular
+- Vue.js
+- Astro
+- Remix
+- Gatsby.js
+- Svelte
 
-## Performance & Architecture
+## Mobile Development
 
-Code Splitting • Lazy Loading • Rendering Optimization • Memoization • Core Web Vitals • Modular Architecture
+- React Native
+- Expo
 
-## State & Data
+## Languages
 
-Redux Toolkit • Zustand • TanStack Query • REST APIs
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+## State Management & Data
+
+- Redux Toolkit
+- Zustand
+- TanStack Query
+- Context API
+- REST APIs
+- Firebase
 
 ## UI Engineering
 
-Tailwind CSS • Responsive Design • Accessibility (WCAG) • Design Systems • CSS Modules
+- Tailwind CSS
+- Bootstrap
+- CSS Modules
+- Responsive Design
+- Accessibility (WCAG)
+- Design Systems
+- Shadcn/UI
 
-## Testing & Quality
+## Performance & Architecture
 
-Jest • React Testing Library • Playwright • Cypress • ESLint • Prettier
+- Code Splitting
+- Lazy Loading
+- Rendering Optimization
+- Memoization
+- Core Web Vitals
+- Modular Architecture
+- Component Architecture
+- SSR Optimization
+- Enterprise Frontend Patterns
 
 ## Animation & Interaction
 
-Framer Motion • GSAP
+- Framer Motion
+- GSAP
+
+## Testing & Quality
+
+- Jest
+- React Testing Library
+- Playwright
+- Cypress
+- ESLint
+- Prettier
+
+## Tools & Workflow
+
+- Git & GitHub
+- Docker
+- CI/CD
+- VS Code
+- Figma-to-Code Workflow
 
 ---
 
@@ -65,34 +122,36 @@ Framer Motion • GSAP
 
 ## 📱 Notes App — React Native
 
-Offline-first mobile notes application optimized for fast interactions and smooth UX.
+Offline-first mobile notes application optimized for smooth interactions and fast startup performance.
 
 ### Engineering Highlights
 
-- AsyncStorage persistence for instant startup and offline usage
-- Optimized state handling to reduce unnecessary re-renders
-- Instant search optimized for large datasets
+- AsyncStorage persistence for offline-first behavior
+- Optimized rendering to minimize unnecessary re-renders
+- Instant search experience for large note collections
+- Mobile-focused responsive UX
 
 ### Stack
 
-React Native • Expo • AsyncStorage
+React Native • Expo • AsyncStorage • TypeScript
 
 ### Links
 
-- Live Code:  
+- Code  
   https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-
 
 ---
 
 ## 🏥 HealthNexus — Next.js Platform
 
-Healthcare platform focused on SSR performance, modular architecture, and scalability.
+Modern healthcare platform focused on SSR performance, modular architecture, and scalability.
 
 ### Engineering Highlights
 
-- Built with App Router + TypeScript
-- Reusable component architecture for maintainability
-- Optimized SSR behavior and responsive rendering
+- Built using App Router + TypeScript
+- Reusable architecture for scalable development
+- Optimized SSR rendering behavior
+- Responsive and accessible UI system
 
 ### Stack
 
@@ -100,10 +159,10 @@ Next.js • TypeScript • Tailwind CSS
 
 ### Links
 
-- Live:  
+- Live  
   https://healthnexus-web.netlify.app/
 
-- Code:  
+- Code  
   https://github.com/JahanzaibJameel/HealthNexus-web
 
 ---
@@ -114,9 +173,10 @@ Production-focused SPA emphasizing reliability, accessibility, and testing quali
 
 ### Engineering Highlights
 
-- WCAG-compliant accessible interface
+- Accessible WCAG-compliant interface
 - Internationalization (i18n) support
-- Unit + integration test coverage for calculation reliability
+- Unit + integration test coverage
+- Optimized calculation performance
 
 ### Stack
 
@@ -124,23 +184,24 @@ React • TypeScript • Jest • i18n
 
 ### Links
 
-- Live:  
+- Live  
   https://financial-analysis-calculator.netlify.app/
 
-- Code:  
+- Code  
   https://github.com/JahanzaibJameel/Financial-Analysis-Calculator
 
 ---
 
 ## 🍞 AR Bakerz
 
-Responsive marketing website focused on clean semantics and performant animation systems.
+Responsive marketing website focused on semantic structure and performant animations.
 
 ### Engineering Highlights
 
-- Semantic HTML structure for accessibility + SEO
-- GSAP-powered animations optimized for smooth performance
-- Responsive layout across device sizes
+- Semantic HTML architecture
+- SEO-focused structure
+- GSAP-powered smooth animations
+- Responsive layout across screen sizes
 
 ### Stack
 
@@ -148,20 +209,32 @@ HTML • CSS • JavaScript • GSAP
 
 ### Links
 
-- Live:  
+- Live  
   https://ar-bakerz.netlify.app/
 
-- Code:  
+- Code  
   https://github.com/JahanzaibJameel/AR-Bakerz
+
+---
+
+# Current Focus
+
+- Advanced React Native Architecture
+- High-performance frontend systems
+- Scalable component libraries
+- Enterprise frontend patterns
+- Modern animation systems
+- Full-stack frontend ecosystems
 
 ---
 
 # Engineering Philosophy
 
-- Build systems that scale with product complexity
-- Prioritize real performance over artificial metrics
-- Keep codebases maintainable as teams grow
-- Focus on UX under realistic conditions
+- Build systems that scale with complexity
+- Prioritize maintainability over shortcuts
+- Optimize for real-world performance
+- Design interfaces that remain intuitive at scale
+- Focus on long-term product reliability
 
 ---
 
@@ -172,6 +245,8 @@ HTML • CSS • JavaScript • GSAP
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JahanzaibJameel&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahanzaibJameel&layout=compact&theme=tokyonight" />
 
 </div>
 
