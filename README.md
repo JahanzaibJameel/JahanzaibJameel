@@ -1,19 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:0EA5E9&text=Muhammad%20Jahanzaib&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Mobile%20Engineer%20•%20React%20Native%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:0EA5E9&text=Muhammad%20Jahanzaib&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Mobile%20Engineer%20•%20React%20Native%20Developer&descAlignY=58"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Frontend+Applications;React+%7C+Next.js+%7C+React+Native+Engineer;Focused+on+Performance+%26+User+Experience;Creating+Production-Ready+Web+%26+Mobile+Apps;Always+Learning+Modern+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Frontend+Applications;React+•+Next.js+•+React+Native+Engineer;Focused+on+Performance+%26+User+Experience;Creating+Production-Ready+Web+%26+Mobile+Apps;Always+Learning+Modern+Technologies"/>
 
 <br/><br/>
 
+<a href="https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/">
 <img src="https://img.shields.io/badge/Frontend%20Engineer-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+
 <img src="https://img.shields.io/badge/React%20Native-111827?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
+<a href="https://www.linkedin.com/in/muhammad-jahanzaib-khanzada-9029852a3/">
 <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
+
+<!-- 
+Frontend & Mobile Engineer | React | Next.js | React Native
+Building scalable, performant, and production-ready applications.
+-->
 
 ---
 
@@ -21,18 +33,37 @@
 
 Frontend & Mobile Engineer passionate about building scalable, performant, and production-ready applications using modern frontend technologies.
 
-I focus on building maintainable, accessible, and performant applications that scale efficiently across web and mobile platforms.
+I focus on building maintainable, accessible, and high-performance applications that scale efficiently across both web and mobile platforms.
 
-### 🚀 Core Focus
+I enjoy solving frontend architecture challenges, improving developer experience, and building interfaces that combine performance, usability, and clean engineering practices.
+
+---
+
+# 🧠 Engineering Philosophy
+
+I believe modern frontend engineering is about more than building interfaces.
+
+My focus is creating scalable systems that balance performance, maintainability, accessibility, and user experience while keeping development workflows efficient and production-ready.
+
+I enjoy building reusable architectures, optimizing rendering performance, and creating frontend systems that remain reliable as applications grow.
+
+---
+
+# 🚀 Core Focus
 
 - Frontend Development
 - React & Next.js Applications
 - React Native Mobile Apps
 - Scalable UI Systems
+- Frontend Architecture
 - Performance Optimization
-- Component-Driven Architecture
 - Accessibility & UX
 - Responsive Design Systems
+- Component-Driven Development
+- Rendering Optimization
+- Offline-first Experiences
+- Design Systems
+- Cross-platform Development
 
 ---
 
@@ -43,6 +74,20 @@ I focus on building maintainable, accessible, and performant applications that s
 - Performance-focused UI architectures
 - Reusable component libraries
 - Mobile-first user experiences
+- Responsive frontend platforms
+- Frontend systems with scalable architecture patterns
+
+---
+
+# 📚 Currently Exploring
+
+- Advanced React Native architecture
+- Frontend rendering optimization
+- Offline-first synchronization patterns
+- Scalable frontend system design
+- CI/CD workflows for frontend apps
+- Modern performance engineering techniques
+- Cross-platform application architecture
 
 ---
 
@@ -76,14 +121,15 @@ I focus on building maintainable, accessible, and performant applications that s
 
 ## 📱 Notes App — React Native
 
-Offline-first notes application designed for smooth mobile performance and fast local interactions.
+Offline-first notes application designed for fast local interactions and optimized mobile performance.
 
 ### ⚡ Highlights
 
-- Built offline-first mobile architecture
-- Implemented fast local note searching
-- Reduced unnecessary re-renders using optimized state updates
-- Focused on smooth mobile user experience
+- Built offline-first mobile architecture for improved reliability
+- Optimized local state handling for smoother interactions
+- Reduced unnecessary component re-renders using optimized update patterns
+- Improved mobile responsiveness and interaction performance
+- Focused on scalable React Native project structure
 
 ### 🛠 Stack
 
@@ -91,21 +137,21 @@ Offline-first notes application designed for smooth mobile performance and fast 
 
 ### 🔗 Links
 
-- Repository  
-  https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-
+- [Repository](https://github.com/JahanzaibJameel/ReactNative-NotesApp-Expo-)
 
 ---
 
 ## 🏥 HealthNexus — Next.js Platform
 
-Modern healthcare frontend platform focused on scalable architecture and responsive user experience.
+Modern healthcare frontend platform focused on scalable architecture, accessibility, and responsive user experience.
 
 ### ⚡ Highlights
 
-- Built using App Router architecture
-- Developed reusable UI component patterns
-- Optimized responsive layouts for multiple devices
-- Focused on accessibility and maintainability
+- Built using modern Next.js App Router architecture
+- Developed reusable and composable UI systems
+- Optimized layouts across desktop, tablet, and mobile breakpoints
+- Focused on accessibility, scalability, and maintainability
+- Structured clean frontend architecture patterns
 
 ### 🛠 Stack
 
@@ -113,24 +159,22 @@ Modern healthcare frontend platform focused on scalable architecture and respons
 
 ### 🔗 Links
 
-- Live Demo  
-  https://healthnexus-web.netlify.app/
-
-- Repository  
-  https://github.com/JahanzaibJameel/HealthNexus-web
+- [Live Demo](https://healthnexus-web.netlify.app/)
+- [Repository](https://github.com/JahanzaibJameel/HealthNexus-web)
 
 ---
 
 ## 📊 Financial Analysis Calculator
 
-Frontend SPA focused on accessibility, internationalization, and structured frontend architecture.
+Frontend SPA focused on accessibility, internationalization, structured architecture, and reusable frontend systems.
 
 ### ⚡ Highlights
 
-- Implemented WCAG-friendly interface patterns
-- Added internationalization support
-- Structured reusable calculation components
-- Built testing-focused frontend structure
+- Implemented WCAG-friendly frontend interface patterns
+- Added internationalization and reusable calculation structures
+- Built modular frontend architecture for maintainability
+- Structured scalable component-driven frontend patterns
+- Focused on frontend testing and code organization
 
 ### 🛠 Stack
 
@@ -138,24 +182,22 @@ Frontend SPA focused on accessibility, internationalization, and structured fron
 
 ### 🔗 Links
 
-- Live Demo  
-  https://financial-analysis-calculator.netlify.app/
-
-- Repository  
-  https://github.com/JahanzaibJameel/Financial-Analysis-Calculator
+- [Live Demo](https://financial-analysis-calculator.netlify.app/)
+- [Repository](https://github.com/JahanzaibJameel/Financial-Analysis-Calculator)
 
 ---
 
 ## 🍞 AR Bakerz
 
-Responsive marketing website focused on animations, SEO structure, and clean frontend implementation.
+Responsive marketing website focused on animations, SEO structure, responsiveness, and clean frontend implementation.
 
 ### ⚡ Highlights
 
-- Built semantic HTML structure
-- Added responsive layout system
-- Integrated smooth GSAP animations
-- Optimized SEO-focused page structure
+- Built semantic and SEO-friendly frontend structure
+- Added responsive layout systems for multiple devices
+- Integrated smooth GSAP animation workflows
+- Optimized visual hierarchy and landing page responsiveness
+- Focused on maintainable frontend implementation
 
 ### 🛠 Stack
 
@@ -163,11 +205,20 @@ Responsive marketing website focused on animations, SEO structure, and clean fro
 
 ### 🔗 Links
 
-- Live Demo  
-  https://ar-bakerz.netlify.app/
+- [Live Demo](https://ar-bakerz.netlify.app/)
+- [Repository](https://github.com/JahanzaibJameel/AR-Bakerz)
 
-- Repository  
-  https://github.com/JahanzaibJameel/AR-Bakerz
+---
+
+# 🤝 Collaboration
+
+- Remote collaboration workflows
+- Git-based team development
+- Component documentation practices
+- Agile development environments
+- Cross-device frontend testing
+- Maintainable code organization
+- Scalable frontend workflows
 
 ---
 
@@ -201,7 +252,7 @@ Responsive marketing website focused on animations, SEO structure, and clean fro
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JahanzaibJameel&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JahanzaibJameel&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -252,7 +303,9 @@ Responsive marketing website focused on animations, SEO structure, and clean fro
 ⚡ Scalable UI Systems  
 ⚡ Mobile User Experience  
 ⚡ Modern Frontend Patterns  
-⚡ Component Library Development
+⚡ Component Library Development  
+⚡ Frontend System Design  
+⚡ Cross-platform Engineering
 
 </div>
 
