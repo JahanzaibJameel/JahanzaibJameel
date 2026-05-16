@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Frontend+Applications;React+•+Next.js+•+React+Native+Engineer;Focused+on+Performance+%26+User+Experience;Creating+Production-Ready+Web+%26+Mobile+Apps;Always+Learning+Modern+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Frontend+Applications;React+Native+%7C+Next.js+Engineer;Performance+Focused+Frontend+Developer;Building+Production+Ready+Applications"/>
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<!-- 
+<!--
 Frontend & Mobile Engineer | React | Next.js | React Native
 Building scalable, performant, and production-ready applications.
 -->
@@ -95,7 +95,7 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,svelte,astro,vite,gatsby,remix,html,css,sass,tailwind,bootstrap,redux,firebase,webpack,docker,git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,svelte,astro,vite,gatsby,remix,html,css,sass,tailwind,bootstrap,redux,firebase,webpack,docker,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
@@ -226,9 +226,9 @@ Responsive marketing website focused on animations, SEO structure, responsivenes
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&icon_color=38BDF8&rank_icon=github&cache_seconds=1800"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahanzaibJameel&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahanzaibJameel&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=FFFFFF&cache_seconds=1800"/>
 
 <br/><br/>
 
@@ -242,7 +242,7 @@ Responsive marketing website focused on animations, SEO structure, responsivenes
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JahanzaibJameel&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JahanzaibJameel&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
