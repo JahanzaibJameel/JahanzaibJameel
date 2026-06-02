@@ -80,16 +80,6 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 ---
 
-# 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JahanzaibJameel&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
