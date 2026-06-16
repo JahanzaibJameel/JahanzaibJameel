@@ -42,7 +42,9 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 # 🚀 Core Focus
 
-- React & Next.js
+- React 
+- Next.js
+- Angular
 - React Native
 - UI Architecture
 - Performance Optimization
