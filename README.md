@@ -111,6 +111,16 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 ---
 
+# 📚 Currently Learning
+
+- Advanced React Native Architecture
+- Expo Ecosystem
+- Mobile Performance Optimization
+- Offline-First Applications
+- Enterprise Frontend Patterns 
+
+---
+
 
 <div align="center">
 
