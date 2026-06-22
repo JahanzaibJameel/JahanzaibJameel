@@ -117,7 +117,6 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 - Expo Ecosystem
 - Mobile Performance Optimization
 - Offline-First Applications
-- Enterprise Frontend Patterns 
 
 ---
 
