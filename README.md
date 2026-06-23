@@ -56,7 +56,7 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,svelte,astro,vite,gatsby,remix,html,css,sass,tailwind,redux,firebase,docker,git,github,vscode,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,svelte,astro,vite,gatsby,html,css,sass,tailwind,redux,firebase,docker,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
