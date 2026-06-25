@@ -98,16 +98,7 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-</div>
-
----
-
-# 🎯 Current Focus
-
-- React Native Architecture  
-- Performance Optimization  
-- Scalable UI Systems  
-- Modern Frontend Patterns  
+</div>  
 
 ---
 
