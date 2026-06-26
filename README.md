@@ -126,7 +126,7 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 <div align="center">
 
-## Open to frontend and mobile engineering opportunities.
+## Open to frontend  engineer and mobile engineering opportunities.
 
 </div>
 
