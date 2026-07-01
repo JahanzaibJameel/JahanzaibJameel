@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:0EA5E9&text=Muhammad%20Jahanzaib&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20and%20Mobile%20Engineer%20|%20React%20Native%20Engineer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:0EA5E9&text=Muhammad%20Jahanzaib&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Frontend%20and%20Mobile%20Engineer%20|%20React%20Native%20Developer&descAlignY=58"/>
 
 <br/>
 
