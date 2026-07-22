@@ -20,7 +20,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 Frontend & Mobile Engineer passionate about building scalable, performant, and production-ready applications using modern frontend technologies.
 
