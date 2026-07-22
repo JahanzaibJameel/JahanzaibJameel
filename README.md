@@ -52,6 +52,14 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 ---
 
+# 💼 Experience
+
+- **Frontend Engineer** at **Apprex Systems**  
+  📅 *Jan 2024 – Present (2 years)*  
+  Building scalable and performant frontend applications with React, Next.js, and React Native.
+
+---
+
 # ⚡ Tech Stack
 
 <div align="center">
