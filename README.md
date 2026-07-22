@@ -54,7 +54,7 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 #  Experience
 
-### 🚀 Frontend Engineer @ Apprex Systems
+###  Frontend Engineer @ Apprex Systems
 **📅 Jan 2024 – Present **
 
 Worked as a Frontend Engineer responsible for developing and maintaining web and mobile applications using **React**, **Next.js**, **React Native**, and **TypeScript**.
