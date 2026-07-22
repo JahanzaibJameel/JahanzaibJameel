@@ -52,7 +52,7 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 ---
 
-# 💼 Experience
+#  Experience
 
 ### 🚀 Frontend Engineer @ Apprex Systems
 **📅 Jan 2024 – Present **
