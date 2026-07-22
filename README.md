@@ -54,9 +54,19 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 
 # 💼 Experience
 
-- **Frontend Engineer** at **Apprex Systems**  
-  📅 *Jan 2024 – Present (2 years)*  
-  Building scalable and performant frontend applications with React, Next.js, and React Native.
+### 🚀 Frontend Engineer @ Apprex Systems
+**📅 Jan 2024 – Present (2+ Years)**
+
+Worked as a Frontend Engineer responsible for developing and maintaining web and mobile applications using **React**, **Next.js**, **React Native**, and **TypeScript**.
+
+#### Key Responsibilities
+- Developed responsive and reusable UI components with React and Tailwind CSS.
+- Built and maintained scalable frontend architectures for production applications.
+- Implemented authentication flows, API integrations, and state management solutions.
+- Optimized application performance, loading speed, and user experience across devices.
+- Collaborated with designers and backend developers to deliver new features and improve existing products.
+- Fixed bugs, improved code quality, and maintained clean, maintainable codebases.
+- Participated in deployment workflows using Git, GitHub, Vercel, and related modern development tools.
 
 ---
 
