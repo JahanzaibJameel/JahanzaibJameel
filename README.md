@@ -30,7 +30,7 @@ I enjoy solving frontend architecture challenges, improving developer experience
 
 ---
 
-# 🧠 Engineering Philosophy
+#  Engineering Philosophy
 
 I believe modern frontend engineering is about more than building interfaces.
 
