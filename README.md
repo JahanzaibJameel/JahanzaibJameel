@@ -80,7 +80,7 @@ Worked as a Frontend Engineer responsible for developing and maintaining web and
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <div align="center">
 
