@@ -70,7 +70,7 @@ Worked as a Frontend Engineer responsible for developing and maintaining web and
 
 ---
 
-# ⚡ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
