@@ -100,7 +100,7 @@ Worked as a Frontend Engineer responsible for developing and maintaining web and
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
