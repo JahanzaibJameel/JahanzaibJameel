@@ -132,7 +132,7 @@ Worked as a Frontend Engineer responsible for developing and maintaining web and
 
 <div align="center">
 
-### ✨ Building scalable digital experiences with performance-focused engineering.
+###  Building scalable digital experiences with performance-focused engineering.
 
 <br/>
 
