@@ -120,7 +120,7 @@ Worked as a Frontend Engineer responsible for developing and maintaining web and
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Advanced React Native Architecture
 - Expo Ecosystem
