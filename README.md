@@ -57,7 +57,7 @@ I enjoy building reusable architectures, optimizing rendering performance, and c
 ###  Frontend Developer @ Apprex Systems
  Jan 2024 – Present 
 
-Worked as a Frontend Developer responsible for developing and maintaining web  applications using **React**, **Next.js**, **React Native**, and **TypeScript**.
+Worked as a Frontend Developer responsible for developing and maintaining web  applications using React, **Next.js**, **React Native**, and **TypeScript**.
 
 #### Key Responsibilities
 - Developed responsive and reusable UI components with React and Tailwind CSS.
