@@ -41,9 +41,15 @@ I build frontends and mobile apps that are fast, accessible, and a genuine joy t
 ### Frontend Developer @ Apprex Systems
 *Jan 2024 – Present*
 
-- Reduced initial load time by ~40% through code splitting, lazy hydration, and optimized asset delivery
-- Built a shared component library adopted across 2 internal products, cutting feature delivery time by ~30%
-- Improved a client‑facing dashboard’s Lighthouse performance score from 62 to 95
+
+#### Key Responsibilities
+- Developed responsive and reusable UI components with React and Tailwind CSS.
+- Built and maintained scalable frontend architectures for production applications.
+- Implemented authentication flows, API integrations, and state management solutions.
+- Optimized application performance, loading speed, and user experience across devices.
+- Collaborated with designers and backend developers to deliver new features and improve existing products.
+- Fixed bugs, improved code quality, and maintained clean, maintainable codebases.
+- Participated in deployment workflows using Git, GitHub, Vercel, and related modern development tools.
 
 ---
 
