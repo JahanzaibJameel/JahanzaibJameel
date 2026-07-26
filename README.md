@@ -52,12 +52,11 @@ I build frontends and mobile apps that are fast, accessible, and a genuine joy t
 - Participated in deployment workflows using Git, GitHub, Vercel, and related modern development tools.
 
 ---
-
-## ⚡ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,typescript,javascript,tailwind,bootstrap,firebase,git,github,docker,figma,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,svelte,astro,vite,gatsby,html,css,sass,tailwind,redux,firebase,docker,git,github,vscode,figma&theme=dark"/>
 
 </div>
 
