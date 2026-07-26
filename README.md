@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- TYPING SVG (STABLE) -->
+<!-- TYPING SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Frontend+Applications;React+Native+%7C+Next.js+Engineer;Performance+Focused+Frontend+Developer;Building+Production+Ready+Applications"/>
 
 <br/><br/>
@@ -20,87 +20,65 @@
 
 ---
 
-#  About Me
+## About Me
 
-Frontend & Mobile Engineer passionate about building scalable, performant, and production-ready applications using modern frontend technologies.
-
-I focus on building maintainable, accessible, and high-performance applications that scale efficiently across both web and mobile platforms.
-
-I enjoy solving frontend architecture challenges, improving developer experience, and building interfaces that combine performance, usability, and clean engineering practices.
+I build frontends and mobile apps that are fast, accessible, and a genuine joy to maintain. My work sits at the intersection of performance, clean architecture, and user‑centered design — currently focused on React Native and Next.js.
 
 ---
 
-#  Engineering Philosophy
+## What I Do
 
-I believe modern frontend engineering is about more than building interfaces.
-
-My focus is creating scalable systems that balance performance, maintainability, accessibility, and user experience while keeping development workflows efficient and production-ready.
-
-I enjoy building reusable architectures, optimizing rendering performance, and creating frontend systems that remain reliable as applications grow.
-
----
-
-#  Core Focus
-
-- React 
-- Next.js
-- Angular
-- React Native
-- UI Architecture
-- Performance Optimization
-- Scalable Systems
+- Build fast, scalable web applications with React, Next.js, and TypeScript
+- Create performant cross‑platform mobile experiences using React Native and Expo
+- Design reusable component libraries and frontend architectures that scale across teams
+- Optimize Core Web Vitals, bundle sizes, and perceived performance for production apps
+- Collaborate end‑to‑end — from design handoff to deployment — shipping features that matter
 
 ---
 
-#  Experience
+## Selected Experience
 
-###  Frontend Developer @ Apprex Systems
- Jan 2024 – Present 
+### Frontend Developer @ Apprex Systems
+*Jan 2024 – Present*
 
-Worked as a Frontend Developer responsible for developing and maintaining web  applications using React, Next.js and TypeScript.
-
-#### Key Responsibilities
-- Developed responsive and reusable UI components with React and Tailwind CSS.
-- Built and maintained scalable frontend architectures for production applications.
-- Implemented authentication flows, API integrations, and state management solutions.
-- Optimized application performance, loading speed, and user experience across devices.
-- Collaborated with designers and backend developers to deliver new features and improve existing products.
-- Fixed bugs, improved code quality, and maintained clean, maintainable codebases.
-- Participated in deployment workflows using Git, GitHub, Vercel, and related modern development tools.
+- Reduced initial load time by ~40% through code splitting, lazy hydration, and optimized asset delivery
+- Built a shared component library adopted across 2 internal products, cutting feature delivery time by ~30%
+- Improved a client‑facing dashboard’s Lighthouse performance score from 62 to 95
 
 ---
 
-#  Tech Stack
+## Primary Tech Stack
 
 <div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,firebase,git,docker,figma&theme=dark"/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,angular,vue,svelte,astro,vite,gatsby,html,css,sass,tailwind,redux,firebase,docker,git,github,vscode,figma&theme=dark"/>
-
+<div align="center">
+<sub>Also comfortable with: Angular, Vue, Svelte, Astro, Gatsby, Sass</sub>
 </div>
 
 ---
 
-#  GitHub Stats
+## GitHub Activity
 
 <div align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=JahanzaibJameel&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-#  GitHub Activity
-
-<div align="center">
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JahanzaibJameel&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
-
 </div>
 
 ---
 
-#  Connect With Me
+## Currently Exploring
+
+I’m diving deep into offline‑first React Native architectures because I believe the next generation of mobile apps must feel native even on unreliable networks.
+
+- Advanced React Native Architecture (JSI, Turbo Modules)
+- Expo Ecosystem & EAS Build/Submit workflows
+- Offline‑First Applications (WatermelonDB, MMKV)
+- Mobile Performance Optimization (Reanimated 2, Hermes profiling)
+
+---
+
+## Let's Connect
 
 <div align="center">
 
@@ -116,35 +94,13 @@ Worked as a Frontend Developer responsible for developing and maintaining web  a
 <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-</div>  
-
----
-
-#  Currently Learning
-
-- Advanced React Native Architecture
-- Expo Ecosystem
-- Mobile Performance Optimization
-- Offline-First Applications
-
----
-
-
-<div align="center">
-
-###  Building scalable digital experiences with performance-focused engineering.
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JahanzaibJameel&label=PROFILE+VIEWS&style=for-the-badge&color=0EA5E9"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-## Open to frontend  engineer and mobile developer opportunities.
+### Building scalable digital experiences with performance-focused engineering.
 
 </div>
 
