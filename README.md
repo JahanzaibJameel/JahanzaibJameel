@@ -56,7 +56,7 @@ I build frontends and mobile apps that are fast, accessible, and a genuine joy t
 ## Primary Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,firebase,git,docker,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,bootstrap,firebase,git,docker,figma&theme=dark"/>
 </div>
 
 <div align="center">
