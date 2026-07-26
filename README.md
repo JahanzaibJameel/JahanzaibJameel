@@ -57,7 +57,7 @@ I build frontends and mobile apps that are fast, accessible, and a genuine joy t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,firebase,redux,git,docker,figma,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,bootstrap,nodejs,express,firebase,mongodb,reactnative,git,github,docker,figma,vercel&theme=dark" />
 
 </div>
 
