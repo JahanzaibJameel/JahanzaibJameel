@@ -53,14 +53,19 @@ I build frontends and mobile apps that are fast, accessible, and a genuine joy t
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,firebase,mongodb,git,docker,figma,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap,nodejs,firebase,git,github,docker,figma,vercel&theme=dark" />
+
+<br><br>
+
+<sub>
+React Native • Redux Toolkit • Zustand • Framer Motion • GSAP • Three.js • Angular • Vue • Svelte • Astro
+</sub>
 
 </div>
-
 
 ---
 
