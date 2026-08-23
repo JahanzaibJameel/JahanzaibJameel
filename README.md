@@ -95,7 +95,7 @@ I’m diving deep into offline‑first React Native architectures because I beli
 </a>
 
 <a href="mailto:m.jahanzaibjameel@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Open to Opportunities" />
 </a>
 
 </div>
