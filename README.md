@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Frontend+Applications;React+Native+%7C+Next.js+Engineer;Performance+Focused+Frontend+Developer;Building+Production+Ready+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+Scalable+Frontend+Applications;React+Native+%7C+Next.js+Engineer;Performance+Focused+Frontend+Developer;Building+Production+Ready+Applications" alt="Typing animation showing key skills" />
 
 <br/><br/>
 
