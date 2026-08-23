@@ -72,11 +72,6 @@ I build frontends and mobile apps that are fast, accessible, and a genuine joy t
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JahanzaibJameel&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=react&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahanzaibJameel&layout=compact&theme=react&hide_border=true" alt="Top languages" />
-</div>
-
 ---
 
 ## Currently Exploring
