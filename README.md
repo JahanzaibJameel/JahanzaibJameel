@@ -16,7 +16,10 @@
 <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 
+<img src="https://komarev.com/ghpvc/?username=JahanzaibJameel&color=0EA5E9&style=flat-square" alt="Profile views" />
+
 </div>
+
 
 ---
 
@@ -67,6 +70,11 @@ I build frontends and mobile apps that are fast, accessible, and a genuine joy t
 
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JahanzaibJameel&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JahanzaibJameel&show_icons=true&theme=react&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahanzaibJameel&layout=compact&theme=react&hide_border=true" alt="Top languages" />
 </div>
 
 ---
